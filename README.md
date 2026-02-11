@@ -98,20 +98,6 @@ cv-engine-pro/
 └── README.md               # Documentação
 ```
 
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir **Issues** ou enviar **Pull Requests**.
-
-1.  Faça um Fork do projeto
-2.  Crie uma Branch para sua Feature (`git checkout -b feature/NovaFeature`)
-3.  Faça o Commit (`git commit -m 'Add: Nova Feature'`)
-4.  Faça o Push (`git push origin feature/NovaFeature`)
-5.  Abra um Pull Request
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
