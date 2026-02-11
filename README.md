@@ -93,6 +93,7 @@ cv-engine-pro/
 │   └── ui/
 │       └── dashboard.py    # Interface Streamlit
 ├── .env                    # Chaves (Não comitar!)
+├── main.py
 ├── .gitignore              # Arquivos ignorados pelo Git
 ├── requirements.txt        # Lista de dependências
 └── README.md               # Documentação
